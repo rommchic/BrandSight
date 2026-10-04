@@ -1,0 +1,2 @@
+- Source: https://huggingface.co/datasets/SimulaMet-HOST/ExposureEngine
+- Domain: Swedish football broadcasts
