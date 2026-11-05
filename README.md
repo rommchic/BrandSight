@@ -5,6 +5,8 @@
 > DL-проект по автоматическому анализу присутствия брендов
 > в спортивных видеотрансляциях.
 
+![BrandSight Banner](assets/Banner_BrandSight.png)
+
 *Yearly Project · AI HSE · 2026–2027*
 
 ![Track](https://img.shields.io/badge/Track-Deep%20Learning-2563EB)
